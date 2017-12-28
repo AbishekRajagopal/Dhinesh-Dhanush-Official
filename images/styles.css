@@ -1,0 +1,155 @@
+.style6 {font-size: 10px}
+.style7 {font-size: 12px}
+.main_tb2{background-color:#333333;}
+.main_tb2 td{border:1px solid #666666;}
+.main_tb2 td img{margin:4px;}
+.main_tb3{background-color:#333333;}
+.main_tb3 td{border:1px solid #444444;}
+.main_tb3 td img{margin:3px;}
+
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+	background-color: #333333;
+	font-family:tohoma;
+	font-size:13px;
+	color:#CCCCCC;
+}
+body,td,th {
+	color: #CCCCCC;
+}
+.style9 {color: #FF9900}
+
+a{
+	text-decoration: none; border:none; color:#FF0000;
+}
+
+a:link{
+	color:#e4e4e4;
+	text-decoration: none;border:none;
+}
+
+a:visited{
+	color:#e4e4e4;
+	text-decoration: none;border:none;
+}
+
+a:hover{
+	color:#CCFF00;
+	text-decoration: none;border:none;
+}	
+p{
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; margin:0px; border:none; padding:3px 3px 3px 3px;
+} 
+
+
+.BexternalTbl{
+   border: 1px solid #cccccc; background-color:#333333;
+}
+.HeaderTbl{
+background-image:url(../images/DEFAULT_46.gif);
+}
+
+.menubar_left{
+background-image:url(../images/Left-button.gif); background-position:right; background-repeat:no-repeat; width:20px; height:22px;
+}
+.menubar_center{
+background-image:url(../images/title-button.gif); background-repeat:repeat-x; text-align:center;
+}
+.menubar_right{
+background-image:url(../images/right-button.gif); background-repeat:no-repeat; background-position:left; width:20px; height:22px;
+}
+.menu_title1{
+background-image:url(../images/menu_bg_title1.gif); background-repeat:no-repeat; background-position:top; height:20px;
+}
+.menu_title2{
+background-image:url(../images/menu_bg_title2.gif);background-repeat:no-repeat; background-position:top; height:20px;
+}
+.menu_title2n{
+background-image:url(../images/menu_bg_title2n.gif);background-repeat:no-repeat; background-position:top; height:20px;
+}
+.menu_title2h{
+background-image:url(../images/menu_bg_title2h.gif);background-repeat:no-repeat; background-position:top; height:20px;
+}
+.menu_title2s{
+background-image:url(../images/menu_bg_title2s.gif);background-repeat:no-repeat; background-position:top; height:20px;
+}
+
+.swebtechsites				{color: #cccccc; text-decoration: none;}
+
+.gallery			{font:  10px verdana, arial; color: #000000; text-decoration: none;}
+
+.copyright			{font:  10px verdana, arial; color: #FFFFFF; text-decoration: none;}
+
+.more			{font:  11px verdana, arial; color:#999999; text-decoration: none;}
+
+.Menu				{font: 11px tahoma, arial; color: #FFFFFF; text-decoration: none;}
+h1{
+  font-family:arial; font-size:11px;
+  font-weight:bold;
+  color: #FFFFFF; background:#9E0101;
+  margin: 0px;
+  padding: 3px;
+  height:17;
+}
+
+h2 {font: bold 11px arial; color:#e4e4e4; text-decoration: none; margin: 0px; padding-left:6px; font-stretch:extra-expanded;}
+h3 {font: 11px Tahoma, Arial; color:#CCCCCC; text-decoration: none; margin: 0px; padding-left:9px;}
+h4 {font: 11px Tahoma, Arial; color:#FF0000; text-decoration: none; margin: 0px; padding-left:9px;}
+
+
+.MenuTitle 			{font: bold 12px Arial; color: #ffcccc; text-decoration: none; padding:6px 3px 1px 3px;}
+
+
+
+
+.dining				{font: bold tahoma, arial; font-size:14px; color: #D5231D; text-decoration: none;}
+
+.info {
+	BORDER-RIGHT: black 1px dotted; BORDER-TOP: black 1px dotted; BORDER-LEFT: black 1px dotted; BORDER-BOTTOM: black 1px dotted;  
+}
+
+.Boxdiv{
+  padding-left:3px;  padding-right:3px; 
+}
+
+
+.BlueheadTd{
+  font-family:verdana,arial; font-size:11px;
+  font-weight:bold;
+  color: #FFFFFF; background: #0066CC;
+  padding-left:3px;
+  padding-right:3px;
+  height:17;
+}
+
+.GreenheadTd{
+  font-family:verdana,arial; font-size:11px;
+  font-weight:bold;
+  color: #FFFFFF; background: #009900;
+  padding-left:3px;
+  padding-right:3px;
+  height:17;
+}
+
+.OrangeheadTd{
+  font-family:verdana,arial; font-size:11px;
+  font-weight:bold;
+  color: #FFFFFF; background: #FF9900;
+  padding-left:3px;
+  padding-right:3px;
+  height:17;
+}
+
+.RedheadTd{
+  font-family:verdana,arial; font-size:11px;
+  font-weight:bold;
+  color: #FFFFFF; background: #AB0000;
+  padding-left:3px;
+  padding-right:3px;
+  height:17;
+}
